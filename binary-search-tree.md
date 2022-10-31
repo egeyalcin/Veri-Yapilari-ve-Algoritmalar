@@ -3,31 +3,31 @@ Veri Yapilari ve Algoritmalar projeleri ve cevapları
 
 1-)
 
-7
+'7'
 
-   7
+'   7
   /
- 5 
+ 5 '
  
-     7
+'     7
    /
   5
  /
-1 
+1 '
 
-    7
+ '   7
    / \
   5   8
  /
-1 
+1 '
 
-    7
+ '   7
    / \
   5   8
  / 
 1  
  \
-  3
+  3'
   
         7
      / \
